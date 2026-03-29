@@ -1,4 +1,4 @@
-@Library('shared-jenkins-library') _   // global library name
+@Library('jenkins-shared-library') _   // global library name
 
 
 pipeline {
